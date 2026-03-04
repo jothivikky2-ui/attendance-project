@@ -67,8 +67,9 @@ Student Attendance Management System built using Vue.js.
 
 ## Project Screenshot
 
-![Attendance UI](attendance-ui.png.jpeg)
-![Attendance Program](attendance-prgm.png.jpeg)
+attendance-ui.png.jpeg
+attendance-prgm.png.jpeg
+new-image.png
 
 ## Features
 - Mark student attendance
