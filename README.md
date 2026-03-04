@@ -1,5 +1,7 @@
 # vue-project
 
+# Student Attendance Management System (Vue.js)
+
 This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
@@ -62,6 +64,11 @@ npm run test:e2e -- --debug
 # Attendance Project
 
 Student Attendance Management System built using Vue.js.
+
+## Project Screenshot
+
+![Attendance UI](attendance-ui.png.jpeg)
+![Attendance Program](attendance-prgm.png.jpeg)
 
 ## Features
 - Mark student attendance
