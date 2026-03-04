@@ -66,13 +66,11 @@ npm run test:e2e -- --debug
 Student Attendance Management System built using Vue.js.
 
 ## Project Screenshot
-## Project Screenshot
 
 ![Attendance UI](attendance-ui.png.jpeg)
 
 ![Attendance Program](attendance-prgm.png.jpeg)
 
-![Attendance program](attendance-prgm2.png)
 ## Features
 - Mark student attendance
 - View attendance records
